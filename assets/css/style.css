@@ -571,7 +571,40 @@ ul.category-list li a.active {
 .read-more:hover {
     background: #3e3e3e;
 }
-
+.main-color{color:#f14836;}
+.carousel-slider .carousel-inner {
+    border-radius: 10px;
+    margin-top: 10px;
+}
+ul.about-listing li {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+.news-pagination ul.pagination li a {
+    padding: 12px 22px;
+    border-color: #f76e60;
+    background: #f14836;
+    color: #fff;
+}
+.news-pagination ul.pagination{
+ float:right;margin-bottom: 70px;
+}
+.news img {
+    border-radius: 5px;
+}
+.carousel-slider {
+    margin-bottom: 70px;    overflow: hidden;
+}
+footer#footer {
+    z-index: 111;
+}
+.contact-text{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    line-height: 34px;
+    font-size:18px;
+}
 /*end my*/
 
 
